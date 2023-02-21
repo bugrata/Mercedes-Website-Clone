@@ -70,3 +70,25 @@ p {
     right: 500px;
     font-size: 10px;
 }
+
+.welcoming-page-h1 {
+    position: relative;
+    bottom: 450px;
+    left: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.welcoming-page-h3 {
+    position: relative;
+    bottom: 420px;
+    left: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.welcoming-page-button {
+    position: relative;
+    bottom: 340px;
+    left: 70px;
+}
