@@ -94,14 +94,15 @@ p {
 }
 
 #featured {
-    background-color: red;
+    background-color: white;
     height: 730px;
 }
 
 .featured-h1 {
     position: relative;
     bottom: 50px;
-    left: 50px;
+    left: 150px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .card {
@@ -133,3 +134,5 @@ p {
     left: 1000px;
     bottom: 1200px;
 }
+
+
