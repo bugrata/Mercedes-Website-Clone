@@ -1,0 +1,72 @@
+.mercedes-logo {
+    height: 130px;
+    padding-top: 30px;
+    padding-left: 80px;
+}
+
+.header {
+    background-color: black;
+}
+
+.form {
+    text-align: right;
+    position: relative;
+    bottom: 60px;
+    right: 150px;
+}
+
+.fa {
+    color: white;
+}
+
+.fa-user {
+    color: white;
+    position: relative;
+    left: 1350px;
+    bottom: 88px;
+    font-size: 30px;
+}
+
+#footer {
+    position: relative;
+    text-align: center;
+    background-color: black;
+    height: 100px;
+    top: 1px;
+}
+
+i {
+    color: white;
+}
+
+.footer-icon {
+    position: relative;
+    padding-left: 50px;
+    top: 20px;
+}
+
+p {
+    position: relative;
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    top: 30px;
+}
+
+.glc-image {
+    position: relative;
+    right: 15px;
+    width: 1443px;
+    top: 2px;
+}
+
+.welcoming-page {
+    position: relative;
+    top: 2px;
+}
+
+.form-yazi {
+    position: relative;
+    right: 500px;
+    font-size: 10px;
+}
