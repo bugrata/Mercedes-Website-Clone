@@ -92,3 +92,32 @@ p {
     bottom: 340px;
     left: 70px;
 }
+
+#featured {
+    background-color: red;
+    height: 1000px;
+}
+
+.featured-h1 {
+    position: relative;
+    bottom: 50px;
+    left: 50px;
+}
+
+.card {
+    height: 600px;
+    position: relative;
+    left: 50px;
+}
+
+.card-text {
+    color: black;
+    text-align: left;
+    text-decoration: none;
+}
+
+.featured-button {
+    position: relative;
+    top: 150px;
+    left: 90px;
+}
