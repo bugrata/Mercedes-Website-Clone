@@ -95,7 +95,7 @@ p {
 
 #featured {
     background-color: red;
-    height: 1000px;
+    height: 730px;
 }
 
 .featured-h1 {
@@ -107,7 +107,7 @@ p {
 .card {
     height: 600px;
     position: relative;
-    left: 50px;
+    left: 150px;
 }
 
 .card-text {
@@ -118,6 +118,18 @@ p {
 
 .featured-button {
     position: relative;
-    top: 150px;
-    left: 90px;
+    top: 80px;
+    left: 80px;
+}
+
+.card2 {
+    position: relative;
+    left: 580px;
+    bottom: 600px;
+}
+
+.card3 {
+    position: relative;
+    left: 1000px;
+    bottom: 1200px;
 }
