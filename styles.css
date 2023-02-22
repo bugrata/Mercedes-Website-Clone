@@ -179,45 +179,54 @@ p {
     background-color: black;
 }
 
-.vehicles-h1 {
+.shopping-tools-h1 {
     font-family: 'Times New Roman', Times, serif;
     position: relative;
-    left: 100px;
-    top: 100px;
+    text-align: center;
+    top: 150px;
+    font-size: 20px;
 }
 
-/* Style the navbar */
-#navbar {
-    overflow: hidden;
-    background-color: #333;
-    margin-top: 150px;
-    margin-left: 80px;
-    width: 540px;
+.card-tool1 {
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 150px;
+    font-family: arial;
+    left: 350px;
+    top: 460px;
   }
   
-  /* Navbar links */
-  #navbar a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
+.card-tool2 {
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 150px;
+    font-family: arial;
+    left: 550px;
+    top: 4px;
+  }
+
+  .card-tool3 {
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 150px;
+    font-family: arial;
+    left: 750px;
+    bottom: 452px;
+  }
+
+  .card-tool4 {
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 150px;
+    font-family: arial;
+    left: 950px;
+    bottom: 908px;
+  }
+  
+  .toolh1 {
+    position: relative;
+    font-size: 15px;
     text-align: center;
-    padding: 14px;
-    text-decoration: none;
-  }
-  
-  /* Page content */
-  .content {
-    padding: 16px;
-  }
-  
-  /* The sticky class is added to the navbar with JS when it reaches its scroll position */
-  .sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-  
-  /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
-  .sticky + .content {
-    padding-top: 60px;
+    bottom: 70px;
+    color: white;
   }
