@@ -179,7 +179,7 @@ p {
     background-color: black;
 }
 
-.shopping-tools-h1 {
+.shopping-tools-h2 {
     font-family: 'Times New Roman', Times, serif;
     position: relative;
     text-align: center;
@@ -230,3 +230,93 @@ p {
     bottom: 70px;
     color: white;
   }
+
+  .spotlight-h2 {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    bottom: 550px;
+}
+
+.spotlight-h1 {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    bottom: 500px;
+}
+
+.spotlight-1 {
+    position: relative;
+    width: 400px;
+    left: 300px;
+    bottom: 400px;
+}
+
+.spotlight-2 {
+    position: relative;
+    width: 350px;
+    bottom: 600px;
+    left: 350px;
+}
+
+.spotlight-3 {
+    position: relative;
+    width: 350px;
+    bottom: 200px;
+}
+
+.spotlight-1-h3 {
+    color:  #176db7;
+    font-size: 15px;
+    position: relative;
+    bottom: 380px;
+    left: 300px;
+}
+
+.spotlight-1-h5 {
+    color: black;
+    text-align: left;
+    font-size: 15px;
+    width: 400px;
+    position: relative;
+    bottom: 380px;
+    left: 300px;
+}
+
+.spotlight-2-h3 {
+    color:  #176db7;
+    font-size: 15px;
+    position: relative;
+    bottom: 870px;
+    left: 755px;
+}
+
+.spotlight-2-h5 {
+    color: black;
+    text-align: left;
+    font-size: 15px;
+    width: 365px;
+    position: relative;
+    bottom: 870px;
+    left: 755px;
+}
+
+.spotlight-3-h3 {
+    color:  #176db7;
+    font-size: 15px;
+    position: relative;
+    bottom: 550px;
+    left: 760px;
+}
+
+.spotlight-3-h5 {
+    color: black;
+    text-align: left;
+    font-size: 15px;
+    width: 365px;
+    position: relative;
+    bottom: 550px;
+    left: 760px;
+}
