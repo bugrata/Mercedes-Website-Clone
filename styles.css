@@ -325,7 +325,7 @@ p {
     font-family: 'Times New Roman', Times, serif;
     position: relative;
     text-align: center;
-    font-size: 20px;
+    font-size: 17px;
     bottom: 400px;
 }
 
@@ -370,6 +370,79 @@ p {
 
 .future-vehicles-button {
     position: relative;
-    left: 1110px;
+    left: 1125px;
     bottom: 690px;
+}
+
+.accessories-h2 {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    text-align: center;
+    font-size: 17px;
+    bottom: 400px;
+}
+
+.accessories-h1 {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    text-align: center;
+    font-size: 35px;
+    bottom: 350px;
+}
+
+.accessories-image-1 {
+    width: 550px;
+    position: relative;
+    bottom: 300px;
+    left: 150px;
+}
+
+.accessories-image-2 {
+    position: relative;
+    bottom: 286px;
+    width: 550px;
+    left: 180px;
+}
+
+.accessories-h4-1 {
+    position: relative;
+    bottom: 300px;
+    left: 150px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.accessories-h5-1 {
+    position: relative;
+    bottom: 300px;
+    left: 150px;
+    font-size: 15px;
+}
+
+.accessories-button-1 {
+    position: relative;
+    bottom: 270px;
+    left: 150px;
+}
+
+.accessories-h4-2 {
+    position: relative;
+    font-size: 15px;
+    bottom: 360px;
+    left: 735px;
+    font-weight: bold;
+}
+
+.accessories-h5-2 {
+    position: relative;
+    font-size: 15px;
+    bottom: 360px;
+    left: 735px;
+    width: 450px;
+}
+
+.accessories-button-2 {
+    position: relative;
+    bottom: 330px;
+    left: 735px;
 }
