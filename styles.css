@@ -320,3 +320,56 @@ p {
     bottom: 550px;
     left: 760px;
 }
+
+.future-vehicles-h2 {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    bottom: 400px;
+}
+
+.future-vehicles-h1 {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    bottom: 350px;
+}
+
+.future-vehicles-1 {
+    position: relative;
+    width: 900px;
+    bottom: 280px;
+    left: 100px;
+}
+
+.future-vehicles-inner-h2 {
+    font-size: 17px;
+    position: relative;
+    left: 1095px;
+    bottom: 760px;
+}
+
+.future-vehicles-inner-h1 {
+    font-size: 30px;
+    position: relative;
+    left: 1050px;
+    bottom: 750px;
+    width: 200px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.future-vehicles-inner-h3 {
+    font-size: 15px;
+    position: relative;
+    left: 1010px;
+    bottom: 740px;
+}
+
+.future-vehicles-button {
+    position: relative;
+    left: 1110px;
+    bottom: 690px;
+}
