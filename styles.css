@@ -446,3 +446,104 @@ p {
     bottom: 330px;
     left: 735px;
 }
+
+#advertisement {
+    background-color: whitesmoke;
+    position: relative;
+    bottom: 240px;
+    height: 700px;
+}
+
+.adv-div-1 {
+    background-color: white;
+    position: relative;
+    width: 380px;
+    left: 500px;
+    padding: 15px;
+}
+
+.adv-h5-1 {
+    font-size: 15px;
+    width: 350px;
+    line-height: 25px;
+}
+
+.adv-div-2 {
+    background-color: white;
+    position: relative;
+    width: 380px;
+    left: 950px;
+    bottom: 397px;
+    padding: 15px;
+}
+
+.adv-h5-2 {
+    font-size: 15px;
+    width: 350px;
+    line-height: 25px;
+}
+
+.adv-h3 {
+    font-size: 15px;
+    position: relative;
+    left: 100px;
+    top: 130px;
+    font-weight: bold;
+}
+
+.adv-h2 {
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    top: 170px;
+    left: 100px;
+}
+
+.adv-h4 {
+    font-size: 15px;
+    position: relative;
+    top: 210px;
+    left: 100px;
+}
+
+.adv-img-1 {
+    width: 350px;
+}
+
+.adv-img-2 {
+    width: 350px;
+}
+
+.insta-h5-1 {
+    font-size: 15px;
+    position: relative;
+    top: 15px;
+    left: 10px;
+    font-weight: bold;
+}
+
+.follow-1 {
+    font-size: 17px;
+    position: relative;
+    left: 285px;
+    bottom: 10px;
+    font-weight: bold;
+    color:  #176db7;
+}
+
+.insta-h5-2 {
+    font-size: 15px;
+    position: relative;
+    top: 15px;
+    left: 10px;
+    font-weight: bold;
+}
+
+.follow-2 {
+    font-size: 17px;
+    position: relative;
+    left: 285px;
+    bottom: 10px;
+    font-weight: bold;
+    color:  #176db7;
+}
