@@ -27,7 +27,7 @@
     font-size: 30px;
 }
 
-#footer {
+#topbar {
     position: relative;
     text-align: center;
     background-color: black;
@@ -39,7 +39,7 @@ i {
     color: white;
 }
 
-.footer-icon {
+.topbar-icon {
     position: relative;
     padding-left: 50px;
     top: 20px;
@@ -546,4 +546,80 @@ p {
     bottom: 10px;
     font-weight: bold;
     color:  #176db7;
+}
+
+#footer {
+    background-color: whitesmoke;
+    position: relative;
+    bottom: 180px;
+    height: 1000px;
+}
+
+.footer-h1 {
+    font-size: 20px;
+}
+
+.footer-h2 {
+    font-size: 15px;
+    line-height: 40px;
+}
+
+.footer-vehicles {
+    width: 250px;
+    position: relative;
+    left: 100px;
+    top: 30px;
+}
+
+.footer-tools {
+    width: 250px;
+    position: relative;
+    left: 420px;
+    bottom: 555px;
+}
+
+.footer-owners {
+    width: 250px;
+    position: relative;
+    left: 730px;
+    bottom: 1235px;
+}
+
+.footer-discover {
+    width: 250px;
+    position: relative;
+    left: 1050px;
+    bottom: 1867px;
+}
+
+.touch {
+    position: relative;
+    bottom: 1550px;
+    left: 100px;
+    width: 1250px;
+}
+
+.touch-h1 {
+    font-size: 20px;
+}
+
+.touch-hr {
+    border: dotted 2px;
+    border-bottom: none;
+    color: black;
+}
+
+.touch-h2 {
+    font-size: 15px;
+}
+
+.touch-form {
+    position: relative;
+    padding-top: 30px;
+}
+
+.fa-brands {
+    position: relative;
+    left: 600px;
+    width: 50px;
 }
