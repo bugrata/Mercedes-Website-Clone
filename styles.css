@@ -77,6 +77,7 @@ p {
     left: 70px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
+    width: 500px;
 }
 
 .welcoming-page-h3 {
@@ -85,6 +86,7 @@ p {
     left: 70px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
+    width: 500px;
 }
 
 .welcoming-page-button {
@@ -103,6 +105,7 @@ p {
     bottom: 50px;
     left: 100px;
     font-family: 'Times New Roman', Times, serif;
+    width: 500px;
 }
 
 .card {
@@ -273,6 +276,7 @@ p {
     position: relative;
     bottom: 380px;
     left: 300px;
+    width: 500px;
 }
 
 .spotlight-1-h5 {
@@ -291,6 +295,7 @@ p {
     position: relative;
     bottom: 870px;
     left: 755px;
+    width: 500px;
 }
 
 .spotlight-2-h5 {
@@ -309,6 +314,7 @@ p {
     position: relative;
     bottom: 550px;
     left: 760px;
+    width: 500px;
 }
 
 .spotlight-3-h5 {
@@ -349,6 +355,7 @@ p {
     position: relative;
     left: 1095px;
     bottom: 760px;
+    width: 300px;
 }
 
 .future-vehicles-inner-h1 {
@@ -366,6 +373,7 @@ p {
     position: relative;
     left: 1010px;
     bottom: 740px;
+    width: 400px;
 }
 
 .future-vehicles-button {
@@ -410,6 +418,7 @@ p {
     left: 150px;
     font-size: 15px;
     font-weight: bold;
+    width: 500px;
 }
 
 .accessories-h5-1 {
@@ -417,6 +426,7 @@ p {
     bottom: 300px;
     left: 150px;
     font-size: 15px;
+    width: 550px;
 }
 
 .accessories-button-1 {
@@ -431,6 +441,7 @@ p {
     bottom: 360px;
     left: 735px;
     font-weight: bold;
+    width: 500px;
 }
 
 .accessories-h5-2 {
@@ -489,6 +500,7 @@ p {
     left: 100px;
     top: 130px;
     font-weight: bold;
+    width: 200px;
 }
 
 .adv-h2 {
@@ -504,6 +516,7 @@ p {
     position: relative;
     top: 210px;
     left: 100px;
+    width: 400px;
 }
 
 .adv-img-1 {
@@ -529,6 +542,7 @@ p {
     bottom: 10px;
     font-weight: bold;
     color:  #176db7;
+    width: 100px;
 }
 
 .insta-h5-2 {
@@ -546,13 +560,14 @@ p {
     bottom: 10px;
     font-weight: bold;
     color:  #176db7;
+    width: 100px;
 }
 
 #footer {
     background-color: whitesmoke;
     position: relative;
     bottom: 180px;
-    height: 1000px;
+    height: 1100px;
 }
 
 .footer-h1 {
@@ -622,4 +637,75 @@ p {
     position: relative;
     left: 600px;
     width: 50px;
+}
+
+.touch-h1-2 {
+    font-size: 20px;
+    position: relative;
+    top: 40px;
+}
+
+.touch-h2-2 {
+    font-size: 17px;
+    position: relative;
+    top: 40px;
+    font-weight: lighter;
+    width: 300px;
+}
+
+.touch-hr-2 {
+    border: dotted 2px;
+    border-bottom: none;
+    color: black;
+    position: relative;
+    top: 40px;
+}
+
+.touch-h2-3 {
+    font-size: 17px;
+    position: relative;
+    top: 20px;
+    left: 50%;
+    font-weight: lighter;
+    width: 300px;
+}
+
+.touch-h2-4 {
+    font-size: 17px;
+    position: relative;
+    left: 980px;
+    bottom: 10px;
+    font-weight: lighter;
+    width: 300px;
+}
+
+.footer-image {
+    width: 50px;
+    position: relative;
+    top: 140px;
+}
+
+.touch-h3 {
+    font-size: 15px;
+    position: relative;
+    top: 105px;
+    left: 100px;
+    width: 500px;
+}
+
+.touch-h3-2 {
+    font-size: 15px;
+    position: relative;
+    top: 80px;
+    left: 250px;
+    width: 500px;
+}
+
+.touch-h3-3 {
+    font-size: 17px;
+    position: relative;
+    top: 50px;
+    left: 1100px;
+    font-weight: bold;
+    width: 200px;
 }
