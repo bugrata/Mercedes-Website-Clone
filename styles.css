@@ -55,13 +55,13 @@ p {
 
 .glc-image {
     position: relative;
-    right: 15px;
     width: 1443px;
     top: 2px;
 }
 
 .welcoming-page {
     position: relative;
+    right: 15px;
     top: 2px;
 }
 
